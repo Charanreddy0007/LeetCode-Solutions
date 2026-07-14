@@ -6,7 +6,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 ---
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Simulation</code>&nbsp;<code>String</code>&nbsp;<code>Stack</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>
+<code>Math</code>&nbsp;<code>Array</code>&nbsp;<code>Simulation</code>&nbsp;<code>String</code>&nbsp;<code>Stack</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Enumeration</code>
 
 <h2> Dashboard </h2>
 
@@ -18,9 +18,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **6**  |
+|Total  | **7**  |
 |Easy   | **4**   |
-|Medium | **2** |
+|Medium | **3** |
 |Hard   | **0**   |
 
 </td>
@@ -31,8 +31,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
+| Math | **4** |
 | Array | **3** |
-| Math | **3** |
 | Simulation | **2** |
 | String | **2** |
 
@@ -45,7 +45,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Python3 | **4** |
+| Python3 | **5** |
 | Java | **1** |
 | C++ | **1** |
 
@@ -58,9 +58,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **41.86 ms**  |
-| Memory  | **19.37 MB**   |
-| Latest  | **[412](Easy/0412_fizz-buzz)**|
+| Runtime    | **71.12 ms**  |
+| Memory  | **19.35 MB**   |
+| Latest  | **[3751](Medium/3751_total-waviness-of-numbers-in-range-i)**|
 | Updated    | **2026-07-14** |  
 
 
@@ -81,6 +81,7 @@ Auto-generated using **LeetCode Sync**
 | 4 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
 | 5 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 | 6 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
+| 7 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 ---
 
 </div>
