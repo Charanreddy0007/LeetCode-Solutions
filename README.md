@@ -18,8 +18,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **20**  |
-|Easy   | **15**   |
+|Total  | **21**  |
+|Easy   | **16**   |
 |Medium | **5** |
 |Hard   | **0**   |
 
@@ -32,7 +32,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Topic | Value |
 |-------|------:|
 | Array | **16** |
-| Math | **5** |
+| Math | **6** |
 | Binary Search | **5** |
 | Two Pointers | **4** |
 
@@ -45,7 +45,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **13** |
+| Java | **14** |
 | Python3 | **6** |
 | C++ | **1** |
 
@@ -58,9 +58,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **139.67 ms**  |
-| Memory  | **35.84 MB**   |
-| Latest  | **[977](Easy/0977_squares-of-a-sorted-array)**|
+| Runtime    | **133.32 ms**  |
+| Memory  | **36.12 MB**   |
+| Latest  | **[3658](Easy/3658_gcd-of-odd-and-even-sums)**|
 | Updated    | **2026-07-16** |  
 
 
@@ -68,7 +68,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 </tr>
 </table>
 
-
+> **Note:** Repository statistics include all accepted submissions. Runtime and memory averages include SQL solutions, which may affect the reported averages.
 ---
 
 Auto-generated using [**LeetCode Sync**]("https://github.com/Charanreddy0007/LeetCode-Sync.git")
@@ -94,7 +94,8 @@ Auto-generated using [**LeetCode Sync**]("https://github.com/Charanreddy0007/Lee
 | 17 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | 🟢&nbsp;Easy | Java | 0 ms | 44.6 MB | [Link!](https://leetcode.com/problems/richest-customer-wealth) |
 | 18 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
 | 19 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 20 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 20 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
+| 21 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 ---
 
 </div>
