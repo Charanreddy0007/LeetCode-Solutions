@@ -18,8 +18,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **25**  |
-|Easy   | **20**   |
+|Total  | **26**  |
+|Easy   | **21**   |
 |Medium | **5** |
 |Hard   | **0**   |
 
@@ -46,7 +46,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Language | # |
 |----------|------:|
 | Java | **16** |
-| Python3 | **6** |
+| Python3 | **7** |
 | MySQL | **2** |
 | C++ | **1** |
 
@@ -58,9 +58,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **154.62 ms**  |
-| Memory  | **37.12 MB**   |
-| Latest  | **[1979](Easy/1979_find-greatest-common-divisor-of-array)**|
+| Runtime    | **148.89 ms**  |
+| Memory  | **36.46 MB**   |
+| Latest  | **[3986](Easy/3986_number-of-elapsed-seconds-between-two-times)**|
 | Updated    | **2026-07-18** |  
 
 
@@ -100,6 +100,7 @@ Auto-generated using **LeetCode Sync**
 | 23 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
 | 24 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
 | 25 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 26 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
 ---
 
 </div>
