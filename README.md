@@ -1,12 +1,12 @@
 
 # Leetcode Solutions
 
-This repository is automatically synchronized using **LeetCode Sync**. View the [source code]("https://github.com/Charanreddy0007/LeetCode-Sync.git").
+This repository is automatically synchronized using **LeetCode Sync**. View the [**source code**](https://github.com/Charanreddy0007/LeetCode-Sync.git).
 
 ---
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>Sorting</code>&nbsp;<code>Simulation</code>&nbsp;<code>String</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Prefix Sum</code>&nbsp;<code>Database</code>
+<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>Sorting</code>&nbsp;<code>Simulation</code>&nbsp;<code>String</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Prefix Sum</code>&nbsp;<code>Number Theory</code>
 
 <h2> Dashboard </h2>
 
@@ -18,8 +18,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **24**  |
-|Easy   | **19**   |
+|Total  | **25**  |
+|Easy   | **20**   |
 |Medium | **5** |
 |Hard   | **0**   |
 
@@ -31,8 +31,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
-| Array | **16** |
-| Math | **7** |
+| Array | **17** |
+| Math | **8** |
 | Binary Search | **5** |
 | Two Pointers | **4** |
 
@@ -45,7 +45,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **15** |
+| Java | **16** |
 | Python3 | **6** |
 | MySQL | **2** |
 | C++ | **1** |
@@ -58,10 +58,10 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **160.80 ms**  |
-| Memory  | **36.82 MB**   |
-| Latest  | **[1025](Easy/1025_divisor-game)**|
-| Updated    | **2026-07-17** |  
+| Runtime    | **154.62 ms**  |
+| Memory  | **37.12 MB**   |
+| Latest  | **[1979](Easy/1979_find-greatest-common-divisor-of-array)**|
+| Updated    | **2026-07-18** |  
 
 
 </td>
@@ -71,7 +71,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 > **Note:** Repository statistics include all accepted submissions. Runtime and memory averages include SQL solutions, which may affect the reported averages.
 ---
 
-Auto-generated using [**LeetCode Sync**]("https://github.com/Charanreddy0007/LeetCode-Sync.git")
+Auto-generated using **LeetCode Sync**
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
@@ -96,15 +96,16 @@ Auto-generated using [**LeetCode Sync**]("https://github.com/Charanreddy0007/Lee
 | 19 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
 | 20 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | 🟢&nbsp;Easy | Java | 0 ms | 44.6 MB | [Link!](https://leetcode.com/problems/richest-customer-wealth) |
 | 21 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
-| 22 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 23 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
-| 24 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 22 | 1979 | [Find Greatest Common Divisor of Array](Easy/1979_find-greatest-common-divisor-of-array) | 🟢&nbsp;Easy | Java | 0 ms | 44.8 MB | [Link!](https://leetcode.com/problems/find-greatest-common-divisor-of-array) |
+| 23 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 24 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
+| 25 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 ---
 
 </div>
 
 <div align="center">
-<p> Powered by LeetCode Sync • GitHub Actions • Last Sync: 2026-07-17 </p>
+<p> Powered by LeetCode Sync • GitHub Actions • Last Sync: 2026-07-18 </p>
 </div>
 
 
