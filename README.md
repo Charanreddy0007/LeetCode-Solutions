@@ -11,7 +11,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 ---
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>Sorting</code>&nbsp;<code>Hash Table</code>&nbsp;<code>String</code>&nbsp;<code>Database</code>&nbsp;<code>Simulation</code>&nbsp;<code>Dynamic Programming</code>
+<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Sorting</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>String</code>&nbsp;<code>Database</code>&nbsp;<code>Simulation</code>&nbsp;<code>Dynamic Programming</code>
 
 <h2> Dashboard </h2>
 
@@ -23,9 +23,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **34**  |
+|Total  | **35**  |
 |Easy   | **28**   |
-|Medium | **6** |
+|Medium | **7** |
 |Hard   | **0**   |
 
 </td>
@@ -36,10 +36,10 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
-| Array | **22** |
+| Array | **23** |
 | Math | **11** |
 | Binary Search | **7** |
-| Two Pointers | **5** |
+| Sorting | **6** |
 
 
 </td>
@@ -50,7 +50,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **23** |
+| Java | **24** |
 | Python3 | **7** |
 | MySQL | **3** |
 | C++ | **1** |
@@ -63,9 +63,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **172.80 ms**  |
-| Memory  | **40.56 MB**   |
-| Latest  | **[287](Medium/0287_find-the-duplicate-number)**|
+| Runtime    | **168.17 ms**  |
+| Memory  | **41.04 MB**   |
+| Latest  | **[442](Medium/0442_find-all-duplicates-in-an-array)**|
 | Updated    | **2026-07-26** |  
 
 
@@ -98,22 +98,23 @@ Auto-generated using **LeetCode Sync**
 | 16 | 0268 | [Missing Number](Easy/0268_missing-number) | 🟢&nbsp;Easy | Java | 137 ms | 47.4 MB | [Link!](https://leetcode.com/problems/missing-number) |
 | 17 | 0287 | [Find the Duplicate Number](Medium/0287_find-the-duplicate-number) | 🟡&nbsp;Medium | Java | 5 ms | 82.8 MB | [Link!](https://leetcode.com/problems/find-the-duplicate-number) |
 | 18 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
-| 19 | 0448 | [Find All Numbers Disappeared in an Array](Easy/0448_find-all-numbers-disappeared-in-an-array) | 🟢&nbsp;Easy | Java | 6 ms | 67.3 MB | [Link!](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) |
-| 20 | 0561 | [Array Partition](Easy/0561_array-partition) | 🟢&nbsp;Easy | Java | 2306 ms | 47.5 MB | [Link!](https://leetcode.com/problems/array-partition) |
-| 21 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
-| 22 | 0744 | [Find Smallest Letter Greater Than Target](Easy/0744_find-smallest-letter-greater-than-target) | 🟢&nbsp;Easy | Java | 0 ms | 46.5 MB | [Link!](https://leetcode.com/problems/find-smallest-letter-greater-than-target) |
-| 23 | 0852 | [Peak Index in a Mountain Array](Medium/0852_peak-index-in-a-mountain-array) | 🟡&nbsp;Medium | Java | 0 ms | 80.4 MB | [Link!](https://leetcode.com/problems/peak-index-in-a-mountain-array) |
-| 24 | 0977 | [Squares of a Sorted Array](Easy/0977_squares-of-a-sorted-array) | 🟢&nbsp;Easy | Java | 10 ms | 47.7 MB | [Link!](https://leetcode.com/problems/squares-of-a-sorted-array) |
-| 25 | 1025 | [Divisor Game](Easy/1025_divisor-game) | 🟢&nbsp;Easy | Java | 0 ms | 42 MB | [Link!](https://leetcode.com/problems/divisor-game) |
-| 26 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
-| 27 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | 🟢&nbsp;Easy | Java | 0 ms | 44.6 MB | [Link!](https://leetcode.com/problems/richest-customer-wealth) |
-| 28 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
-| 29 | 1979 | [Find Greatest Common Divisor of Array](Easy/1979_find-greatest-common-divisor-of-array) | 🟢&nbsp;Easy | Java | 0 ms | 44.8 MB | [Link!](https://leetcode.com/problems/find-greatest-common-divisor-of-array) |
-| 30 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array) | 🟢&nbsp;Easy | Java | 2 ms | 46.4 MB | [Link!](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) |
-| 31 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 32 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
-| 33 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
-| 34 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
+| 19 | 0442 | [Find All Duplicates in an Array](Medium/0442_find-all-duplicates-in-an-array) | 🟡&nbsp;Medium | Java | 6 ms | 57.6 MB | [Link!](https://leetcode.com/problems/find-all-duplicates-in-an-array) |
+| 20 | 0448 | [Find All Numbers Disappeared in an Array](Easy/0448_find-all-numbers-disappeared-in-an-array) | 🟢&nbsp;Easy | Java | 6 ms | 67.3 MB | [Link!](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) |
+| 21 | 0561 | [Array Partition](Easy/0561_array-partition) | 🟢&nbsp;Easy | Java | 2306 ms | 47.5 MB | [Link!](https://leetcode.com/problems/array-partition) |
+| 22 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 23 | 0744 | [Find Smallest Letter Greater Than Target](Easy/0744_find-smallest-letter-greater-than-target) | 🟢&nbsp;Easy | Java | 0 ms | 46.5 MB | [Link!](https://leetcode.com/problems/find-smallest-letter-greater-than-target) |
+| 24 | 0852 | [Peak Index in a Mountain Array](Medium/0852_peak-index-in-a-mountain-array) | 🟡&nbsp;Medium | Java | 0 ms | 80.4 MB | [Link!](https://leetcode.com/problems/peak-index-in-a-mountain-array) |
+| 25 | 0977 | [Squares of a Sorted Array](Easy/0977_squares-of-a-sorted-array) | 🟢&nbsp;Easy | Java | 10 ms | 47.7 MB | [Link!](https://leetcode.com/problems/squares-of-a-sorted-array) |
+| 26 | 1025 | [Divisor Game](Easy/1025_divisor-game) | 🟢&nbsp;Easy | Java | 0 ms | 42 MB | [Link!](https://leetcode.com/problems/divisor-game) |
+| 27 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
+| 28 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | 🟢&nbsp;Easy | Java | 0 ms | 44.6 MB | [Link!](https://leetcode.com/problems/richest-customer-wealth) |
+| 29 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
+| 30 | 1979 | [Find Greatest Common Divisor of Array](Easy/1979_find-greatest-common-divisor-of-array) | 🟢&nbsp;Easy | Java | 0 ms | 44.8 MB | [Link!](https://leetcode.com/problems/find-greatest-common-divisor-of-array) |
+| 31 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array) | 🟢&nbsp;Easy | Java | 2 ms | 46.4 MB | [Link!](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) |
+| 32 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 33 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
+| 34 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 35 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
 ---
 
 </div>
