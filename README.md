@@ -11,7 +11,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 ---
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Sorting</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>String</code>&nbsp;<code>Database</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Bit Manipulation</code>
+<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Sorting</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>String</code>&nbsp;<code>Database</code>&nbsp;<code>Bit Manipulation</code>&nbsp;<code>Dynamic Programming</code>
 
 <h2> Dashboard </h2>
 
@@ -23,8 +23,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **41**  |
-|Easy   | **33**   |
+|Total  | **42**  |
+|Easy   | **34**   |
 |Medium | **7** |
 |Hard   | **1**   |
 
@@ -37,7 +37,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Topic | Value |
 |-------|------:|
 | Array | **27** |
-| Math | **13** |
+| Math | **14** |
 | Sorting | **9** |
 | Hash Table | **8** |
 
@@ -50,7 +50,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **29** |
+| Java | **30** |
 | Python3 | **7** |
 | MySQL | **4** |
 | C++ | **1** |
@@ -63,9 +63,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **157.43 ms**  |
-| Memory  | **42.17 MB**   |
-| Latest  | **[181](Easy/0181_employees-earning-more-than-their-managers)**|
+| Runtime    | **153.77 ms**  |
+| Memory  | **42.18 MB**   |
+| Latest  | **[1342](Easy/1342_number-of-steps-to-reduce-a-number-to-zero)**|
 | Updated    | **2026-07-30** |  
 
 
@@ -112,15 +112,16 @@ Auto-generated using **LeetCode Sync**
 | 30 | 0977 | [Squares of a Sorted Array](Easy/0977_squares-of-a-sorted-array) | 🟢&nbsp;Easy | Java | 10 ms | 47.7 MB | [Link!](https://leetcode.com/problems/squares-of-a-sorted-array) |
 | 31 | 1025 | [Divisor Game](Easy/1025_divisor-game) | 🟢&nbsp;Easy | Java | 0 ms | 42 MB | [Link!](https://leetcode.com/problems/divisor-game) |
 | 32 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
-| 33 | 1464 | [Maximum Product of Two Elements in an Array](Easy/1464_maximum-product-of-two-elements-in-an-array) | 🟢&nbsp;Easy | Java | 0 ms | 44.3 MB | [Link!](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) |
-| 34 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | 🟢&nbsp;Easy | Java | 0 ms | 44.6 MB | [Link!](https://leetcode.com/problems/richest-customer-wealth) |
-| 35 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
-| 36 | 1979 | [Find Greatest Common Divisor of Array](Easy/1979_find-greatest-common-divisor-of-array) | 🟢&nbsp;Easy | Java | 0 ms | 44.8 MB | [Link!](https://leetcode.com/problems/find-greatest-common-divisor-of-array) |
-| 37 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array) | 🟢&nbsp;Easy | Java | 2 ms | 46.4 MB | [Link!](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) |
-| 38 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 39 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
-| 40 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
-| 41 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
+| 33 | 1342 | [Number of Steps to Reduce a Number to Zero](Easy/1342_number-of-steps-to-reduce-a-number-to-zero) | 🟢&nbsp;Easy | Java | 0 ms | 42.3 MB | [Link!](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) |
+| 34 | 1464 | [Maximum Product of Two Elements in an Array](Easy/1464_maximum-product-of-two-elements-in-an-array) | 🟢&nbsp;Easy | Java | 0 ms | 44.3 MB | [Link!](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) |
+| 35 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | 🟢&nbsp;Easy | Java | 0 ms | 44.6 MB | [Link!](https://leetcode.com/problems/richest-customer-wealth) |
+| 36 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
+| 37 | 1979 | [Find Greatest Common Divisor of Array](Easy/1979_find-greatest-common-divisor-of-array) | 🟢&nbsp;Easy | Java | 0 ms | 44.8 MB | [Link!](https://leetcode.com/problems/find-greatest-common-divisor-of-array) |
+| 38 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array) | 🟢&nbsp;Easy | Java | 2 ms | 46.4 MB | [Link!](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) |
+| 39 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 40 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
+| 41 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 42 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
 ---
 
 </div>
