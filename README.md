@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="right">
-    <h3>🔥 3 Day Streak</h3>
+    <h3>🔥 30 Day Streak</h3>
 </div>
 
 
@@ -23,8 +23,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **57**  |
-|Easy   | **46**   |
+|Total  | **58**  |
+|Easy   | **47**   |
 |Medium | **10** |
 |Hard   | **1**   |
 
@@ -36,10 +36,10 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
-| Array | **33** |
+| Array | **34** |
 | Math | **21** |
-| Sorting | **12** |
-| Hash Table | **10** |
+| Sorting | **13** |
+| Hash Table | **11** |
 
 
 </td>
@@ -50,7 +50,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **43** |
+| Java | **44** |
 | Python3 | **7** |
 | MySQL | **6** |
 | C++ | **1** |
@@ -63,10 +63,10 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **134.16 ms**  |
+| Runtime    | **131.90 ms**  |
 | Memory  | **43.44 MB**   |
-| Latest  | **[610](Easy/0610_triangle-judgement)**|
-| Updated    | **2026-08-10** |  
+| Latest  | **[2996](Easy/2996_smallest-missing-integer-greater-than-sequential-prefix-sum)**|
+| Updated    | **2026-08-11** |  
 
 
 </td>
@@ -130,19 +130,20 @@ Auto-generated using **LeetCode Sync**
 | 48 | 2278 | [Percentage of Letter in String](Easy/2278_percentage-of-letter-in-string) | 🟢&nbsp;Easy | Java | 0 ms | 42.6 MB | [Link!](https://leetcode.com/problems/percentage-of-letter-in-string) |
 | 49 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array) | 🟢&nbsp;Easy | Java | 2 ms | 46.4 MB | [Link!](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) |
 | 50 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 51 | 3014 | [Minimum Number of Pushes to Type Word I](Easy/3014_minimum-number-of-pushes-to-type-word-i) | 🟢&nbsp;Easy | Java | 0 ms | 43.1 MB | [Link!](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) |
-| 52 | 3345 | [Smallest Divisible Digit Product I](Easy/3345_smallest-divisible-digit-product-i) | 🟢&nbsp;Easy | Java | 1 ms | 42.8 MB | [Link!](https://leetcode.com/problems/smallest-divisible-digit-product-i) |
-| 53 | 3536 | [Maximum Product of Two Digits](Easy/3536_maximum-product-of-two-digits) | 🟢&nbsp;Easy | Java | 1 ms | 43 MB | [Link!](https://leetcode.com/problems/maximum-product-of-two-digits) |
-| 54 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
-| 55 | 3731 | [Find Missing Elements](Easy/3731_find-missing-elements) | 🟢&nbsp;Easy | Java | 6 ms | 47.6 MB | [Link!](https://leetcode.com/problems/find-missing-elements) |
-| 56 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
-| 57 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
+| 51 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996_smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢&nbsp;Easy | Java | 1 ms | 43.6 MB | [Link!](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| 52 | 3014 | [Minimum Number of Pushes to Type Word I](Easy/3014_minimum-number-of-pushes-to-type-word-i) | 🟢&nbsp;Easy | Java | 0 ms | 43.1 MB | [Link!](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) |
+| 53 | 3345 | [Smallest Divisible Digit Product I](Easy/3345_smallest-divisible-digit-product-i) | 🟢&nbsp;Easy | Java | 1 ms | 42.8 MB | [Link!](https://leetcode.com/problems/smallest-divisible-digit-product-i) |
+| 54 | 3536 | [Maximum Product of Two Digits](Easy/3536_maximum-product-of-two-digits) | 🟢&nbsp;Easy | Java | 1 ms | 43 MB | [Link!](https://leetcode.com/problems/maximum-product-of-two-digits) |
+| 55 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
+| 56 | 3731 | [Find Missing Elements](Easy/3731_find-missing-elements) | 🟢&nbsp;Easy | Java | 6 ms | 47.6 MB | [Link!](https://leetcode.com/problems/find-missing-elements) |
+| 57 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 58 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
 ---
 
 </div>
 
 <div align="center">
-<p> Powered by LeetCode Sync • GitHub Actions • Last Sync: 2026-08-10 </p>
+<p> Powered by LeetCode Sync • GitHub Actions • Last Sync: 2026-08-11 </p>
 </div>
 
 
