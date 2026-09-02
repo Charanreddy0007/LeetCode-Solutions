@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="right">
-    <h3>🔥 51 Day Streak</h3>
+    <h3>🔥 52 Day Streak</h3>
 </div>
 
 
@@ -23,8 +23,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **85**  |
-|Easy   | **64**   |
+|Total  | **86**  |
+|Easy   | **65**   |
 |Medium | **20** |
 |Hard   | **1**   |
 
@@ -36,8 +36,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
-| Array | **49** |
-| Math | **24** |
+| Array | **50** |
+| Math | **25** |
 | Hash Table | **17** |
 | Sorting | **16** |
 
@@ -50,7 +50,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **69** |
+| Java | **70** |
 | MySQL | **8** |
 | Python3 | **7** |
 | C++ | **1** |
@@ -63,10 +63,10 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **127.15 ms**  |
-| Memory  | **47.74 MB**   |
-| Latest  | **[203](Easy/0203_remove-linked-list-elements)**|
-| Updated    | **2026-09-01** |  
+| Runtime    | **125.69 ms**  |
+| Memory  | **47.70 MB**   |
+| Latest  | **[3875](Easy/3875_construct-uniform-parity-array-i)**|
+| Updated    | **2026-09-02** |  
 
 
 </td>
@@ -164,13 +164,14 @@ Auto-generated using **LeetCode Sync**
 | 82 | 3718 | [Smallest Missing Multiple of K](Easy/3718_smallest-missing-multiple-of-k) | 🟢&nbsp;Easy | Java | 1 ms | 45 MB | [Link!](https://leetcode.com/problems/smallest-missing-multiple-of-k) |
 | 83 | 3731 | [Find Missing Elements](Easy/3731_find-missing-elements) | 🟢&nbsp;Easy | Java | 6 ms | 47.6 MB | [Link!](https://leetcode.com/problems/find-missing-elements) |
 | 84 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
-| 85 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
+| 85 | 3875 | [Construct Uniform Parity Array I](Easy/3875_construct-uniform-parity-array-i) | 🟢&nbsp;Easy | Java | 0 ms | 44.9 MB | [Link!](https://leetcode.com/problems/construct-uniform-parity-array-i) |
+| 86 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
 ---
 
 </div>
 
 <div align="center">
-<p> Powered by LeetCode Sync • GitHub Actions • Last Sync: 2026-09-01 </p>
+<p> Powered by LeetCode Sync • GitHub Actions • Last Sync: 2026-09-02 </p>
 </div>
 
 
