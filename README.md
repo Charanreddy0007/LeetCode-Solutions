@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="right">
-    <h3>🔥 53 Day Streak</h3>
+    <h3>🔥 54 Day Streak</h3>
 </div>
 
 
@@ -23,8 +23,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **87**  |
-|Easy   | **66**   |
+|Total  | **88**  |
+|Easy   | **67**   |
 |Medium | **20** |
 |Hard   | **1**   |
 
@@ -36,7 +36,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
-| Array | **50** |
+| Array | **51** |
 | Math | **26** |
 | Hash Table | **17** |
 | Sorting | **16** |
@@ -50,7 +50,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **70** |
+| Java | **71** |
 | MySQL | **8** |
 | Python3 | **7** |
 | C++ | **2** |
@@ -63,10 +63,10 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **124.26 ms**  |
-| Memory  | **47.25 MB**   |
-| Latest  | **[3099](Easy/3099_harshad-number)**|
-| Updated    | **2026-09-03** |  
+| Runtime    | **122.88 ms**  |
+| Memory  | **47.24 MB**   |
+| Latest  | **[3903](Easy/3903_smallest-stable-index-i)**|
+| Updated    | **2026-09-04** |  
 
 
 </td>
@@ -166,13 +166,14 @@ Auto-generated using **LeetCode Sync**
 | 84 | 3731 | [Find Missing Elements](Easy/3731_find-missing-elements) | 🟢&nbsp;Easy | Java | 6 ms | 47.6 MB | [Link!](https://leetcode.com/problems/find-missing-elements) |
 | 85 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 | 86 | 3875 | [Construct Uniform Parity Array I](Easy/3875_construct-uniform-parity-array-i) | 🟢&nbsp;Easy | Java | 0 ms | 44.9 MB | [Link!](https://leetcode.com/problems/construct-uniform-parity-array-i) |
-| 87 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
+| 87 | 3903 | [Smallest Stable Index I](Easy/3903_smallest-stable-index-i) | 🟢&nbsp;Easy | Java | 1 ms | 46.4 MB | [Link!](https://leetcode.com/problems/smallest-stable-index-i) |
+| 88 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
 ---
 
 </div>
 
 <div align="center">
-<p> Powered by LeetCode Sync • GitHub Actions • Last Sync: 2026-09-03 </p>
+<p> Powered by LeetCode Sync • GitHub Actions • Last Sync: 2026-09-04 </p>
 </div>
 
 
